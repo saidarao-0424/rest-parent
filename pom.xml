@@ -5,7 +5,7 @@
 	<artifactId>rest-parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>Spring rest parent pom</name>
+	<name>rest-parent</name>
 
 	<modules>
 		<module>../spring-rest-first-app</module>
